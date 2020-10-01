@@ -10,3 +10,5 @@
 4) Sigmaminus-piplus.dat  -- total cross sections for the reaction K-p -> Sigma-pi+
 5) Sigmanull-pinull.dat   -- total cross sections for the reaction K-p -> Sigma0pi0
 6) Sigmaplus-piminus.dat  -- total cross sections for the reaction K-p -> Sigma+pi-
+
+7) Hemingway.dat          -- invariant mass distribution K-p -> Sigma+(1660)pi- -> pi-(pi+(pi-Sigma+))
