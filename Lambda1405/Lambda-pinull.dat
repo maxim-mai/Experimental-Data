@@ -27,3 +27,6 @@ Plab [MeV]	dPlab [MeV]	sigma [mb]	dsigma [mb]	Ref
 390	30	3.1	0.3	Watson:1963zz
 434	26	3.2	0.7	Watson:1963zz
 513	20	1.6	0.4	Watson:1963zz
+120 0.0 22. 9.  Kim1966columbia
+160 0.0 14. 5.  Kim1966columbia
+200 0.0 9.  2.  Kim1966columbia
