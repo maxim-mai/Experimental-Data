@@ -16,4 +16,4 @@ Journal link: https://link.springer.com/article/10.1140/epjs/s11734-021-00144-7
 5) Sigmanull-pinull.dat   -- total cross sections for the reaction $K^-p \to \Sigma^0\pi^0$
 6) Sigmaplus-piminus.dat  -- total cross sections for the reaction $K^-p \to \Sigma^+\pi^-$
 
-7) Hemingway.dat          -- invariant mass distribution K-p -> Sigma+(1660)pi- -> pi-(pi+(pi-Sigma+))
+7) Hemingway.dat          -- invariant mass distribution $K^-p \to \Sigma^+(1660)\pi^- \to \pi^-(\pi^+(\pi^-\Sigma^+))$
