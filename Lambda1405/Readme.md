@@ -1,5 +1,5 @@
 # This repository contains the experimental data described in 2020 Review of Lambda(1405)
-## (https://arxiv.org/abs/2010.00056 -- submitted to EPJST)
+# Inspire [https://inspirehep.net/literature/1820593]
 
 
 ### Description of the data:
