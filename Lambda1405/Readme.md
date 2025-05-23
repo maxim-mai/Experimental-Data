@@ -1,10 +1,9 @@
 # Low-energy antikaon-nucleon scattering data
 
-** The data is as presented in 2020 Review of Lambda(1405) **
-
-inspirehep link: https://inspirehep.net/literature/1820593
-arXiv link: https://arxiv.org/pdf/2010.00056
-Journal link: https://link.springer.com/article/10.1140/epjs/s11734-021-00144-7
+>**The data is as presented in 2020 Review of Lambda(1405)**
+>* inspirehep link: https://inspirehep.net/literature/1820593
+>* arXiv link: https://arxiv.org/pdf/2010.00056
+>* Journal link: https://link.springer.com/article/10.1140/epjs/s11734-021-00144-7
 
 
 ## Description of the data:
